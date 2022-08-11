@@ -10,6 +10,11 @@ description: >-
 
 * Taurine
 * YouTube
+* Flycast
+* Provenance
 * DolphiniOS
   * I couldn't get JIT working via entitlements, but it _should_ work fine with JitStreamer
 * unc0ver
+* iChan
+* iTorrent
+
